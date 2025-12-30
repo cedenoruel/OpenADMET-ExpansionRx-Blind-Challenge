@@ -5,8 +5,8 @@ This repository describes our submission to the OpenADMET-ExpansionRx Blind Chal
 ## Methodology Report
 **Algorithms**: weighted average ensemble of multiple models 
 - Message passing neural network (MPNN) as implemented in ChemProp 2.2
-- TabPFN v2
-- Tree based models: Random Forest, LightGBM, XGBoost 
+- Transformer pretrained on tabular data as implemented in TabPFN v2
+- Classical tree based models: Random Forest, LightGBM, XGBoost 
   
 **Additional features**  
 We explored various molecular representations including:
