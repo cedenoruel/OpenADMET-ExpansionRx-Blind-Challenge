@@ -1,5 +1,5 @@
 # OpenADMET-ExpansionRx-Blind-Challenge
-This repository describes our submission to the OpenADMET-ExpansionRx Blind Challenge
+This repository describes my submission to the OpenADMET-ExpansionRx Blind Challenge
 - **Author**: Ruel Cedeno, PhD
 - **Date**: December 2025
 
@@ -27,7 +27,7 @@ We explored various molecular representations including:
 - The endpoints MPPB, MBPB, and MGMB have more variability. 
 
 **Reference**  
-Our approach is similar to our submission to the *ASAP-Polaris-OpenADMET Challenge* described in our recent publication
+Our approach is similar to my submission to the *ASAP-Polaris-OpenADMET Challenge* described in our recent publication
 
 Deep Learning vs Classical Methods in Potency and ADME Prediction: Insights from a Computational Blind Challenge.  
 *J. Chem. Inf. Model. 2025, 65 (24), 13115–13131.*
