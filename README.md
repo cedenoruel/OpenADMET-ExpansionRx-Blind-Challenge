@@ -1,6 +1,7 @@
 # OpenADMET-ExpansionRx-Blind-Challenge
 This repository describes our submission to the OpenADMET-ExpansionRx Blind Challenge
-
+- **Author**: Ruel Cedeno, PhD
+- **Date**: December 2025
 
 ## Methodology Report
 **Algorithms**: weighted average ensemble of multiple models 
