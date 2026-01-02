@@ -28,8 +28,7 @@ We explored various molecular representations including:
 - Learned embeddings: CheMeleon, MiniMol, CLAMP
 
 **Additional Data**
-- Only publicly available data were leveraged
-- These data were used for feature augmentation (not directly concatenated with the provided ExpansionRx training set). 
+- Only publicly available data were leveraged.
 
 **Performance comments**  
 - My internal cross-validation metrics are comparable to the live leaderboard scores, notably for LogD.
