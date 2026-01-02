@@ -32,7 +32,7 @@ We explored various molecular representations including:
 - These data were used for feature augmentation (not directly concatenated with the provided ExpansionRx training set). 
 
 **Performance comments**  
-- Our internal cross-validation metrics are comparable to the live leaderboard scores.
+- My internal cross-validation metrics are comparable to the live leaderboard scores, notably for LogD.
 - The endpoints MPPB, MBPB, and MGMB have more variability between internal and LB scores. 
 
 
