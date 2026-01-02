@@ -21,7 +21,7 @@ Deep Learning vs Classical Methods in Potency and ADME Prediction: Insights from
 **Additional Molecular Features**  
 We explored various molecular representations including:
 - Structural fingerprints: ECFP4, FCFP4, Avalon
-- Physchen descriptors: RDKit-2d, Mordred, ADMET-AI predictions
+- Physchem descriptors: RDKit-2d, Mordred, ADMET-AI predictions
 - Learned embeddings: CheMeleon, MiniMol, CLAMP
 
 **Additional Data**
