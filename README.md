@@ -18,13 +18,10 @@ Deep Learning vs Classical Methods in Potency and ADME Prediction: Insights from
 - Transformer pretrained on tabular data as implemented in TabPFN v2
 - Classical tree based models: Random Forest, LightGBM, XGBoost 
   
-**Additional features**  
+**Additional Molecular Features**  
 We explored various molecular representations including:
-- ECFP4
-- Avalon
-- RDKit-2d
-- Mordred
-- ADMET-AI predictions
+- Structural fingerprints: ECFP4, FCFP4, Avalon
+- Physchen descriptors: RDKit-2d, Mordred, ADMET-AI predictions
 - Learned embeddings: CheMeleon, MiniMol, CLAMP
 
 **Additional Data**
