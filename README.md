@@ -5,7 +5,7 @@ This repository describes my submission to the OpenADMET-ExpansionRx Blind Chall
 
 ## Methodology Report
 
-Our approach is similar to my submission to the *ASAP-Polaris-OpenADMET Challenge* described in our recent publication
+My approach is similar to my submission to the *ASAP-Polaris-OpenADMET Challenge* described in our recent publication
 
 Deep Learning vs Classical Methods in Potency and ADME Prediction: Insights from a Computational Blind Challenge.  
 *J. Chem. Inf. Model. 2025, 65 (24), 13115–13131.*
